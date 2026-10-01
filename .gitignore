@@ -1,0 +1,10 @@
+/CodexAccounts.app/
+/work/
+.DS_Store
+auth.json
+accounts.sqlite*
+*.db
+.env
+.env.*
+desktop-switch/
+profiles/
